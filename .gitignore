@@ -187,3 +187,6 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+Server4Dbsync/Server4Dbsync.cpp
+Server4Dbsync/Server4Dbsync.vcxproj
+Server4Dbsync/Server4Dbsync.vcxproj.filters
